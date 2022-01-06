@@ -1,5 +1,4 @@
-### Olá, eu sou Gabriel! Seja bem-vindo ao meu perfil!
-
+### Hi, i'm Gabriel! Photographer and filmmaker currently learning CSS, JavaScript, Node.js at Iniciativa Padawan!
 <div>
   <a href="https://github.com/gabrielpser">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
